@@ -35,7 +35,7 @@ The video downloader also supports **Other website / browser URL** when yt-dlp s
 pkg update -y
 pkg install -y git
 cd ~
-git clone https://github.com/King-pe/Vid2Audio.git
+git clone https://github.com/mrcobase/Vid2Audio.git
 cd Vid2Audio
 bash install.sh
 ```
